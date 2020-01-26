@@ -13,7 +13,7 @@ final String spreadsheetId = "Your spreadsheet ID";
 Unirest.config().setDefaultBasicAuth("Public SlickText API Key", "Private SlickText API Key");
 ```
 
-You will also need to delete the "tokens" folder and replace the src/main/resources/credenrials.json with your own.
+You will also need to delete the "tokens" folder and replace the src/main/resources/credenrials.json with your own from googles spreedsheet API.
 
 ## Usage
 
