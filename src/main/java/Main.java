@@ -57,7 +57,6 @@ public class Main {
 
     public static void main (String[] args) throws GeneralSecurityException, IOException {
 
-      
         final NetHttpTransport HTTP_TRANSPORT = GoogleNetHttpTransport.newTrustedTransport();
         final String spreadsheetId = "*********************";
 
