@@ -4,7 +4,7 @@ SlickText.com does not let you download your contact list so I created this Java
 
 ## Installation
 
-I created this program to custom work for me but it is fairly straight forward to download it and run it yourself. The things you will need to change are:
+This program was created to custom work for one time use but it is fairly straight forward to download it and run it yourself. The things you will need to change are:
 
 /src/main/java/Main.java:
 
