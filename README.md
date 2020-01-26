@@ -1,6 +1,6 @@
 # SlickText Contact Downloader
 
-SlickText.com does not let you download your contact list so I created this Java program that will use the slicktext REST API to get all of the contacts including their first and last name, phone number, city, and opt-in method.
+SlickText.com does not let you download your contact list so I created this Java program that will use the slicktext REST API to get all of the contacts including their first and last name, phone number, city, and opt-in method. It takes all this data and sorts them into a google sheets form using the google sheets API. 
 
 ## Installation
 
