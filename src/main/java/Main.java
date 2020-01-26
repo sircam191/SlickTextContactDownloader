@@ -132,6 +132,9 @@ public class Main {
                     .setInsertDataOption("INSERT_ROWS")
                     .setIncludeValuesInResponse(true)
                     .execute();
+            
+            //Adds pause between request for sheets api does not go over request limit
+            Thread.sleep(2500);
         }
     }
     }
